@@ -30,6 +30,13 @@ This case study analyzes Fitbit fitness tracker data to uncover user behavior pa
 ## 🚀 Project Summary
 
 ### 📌 **Objective:**
+![Rplot01](https://github.com/user-attachments/assets/74b2b3a0-8a8a-4e36-b2ea-b537203a50bc)
+![Rplot02](https://github.com/user-attachments/assets/4b6ff9f1-228f-4d17-98d3-858caabd43ef)
+![Rplot03](https://github.com/user-attachments/assets/12f93146-84fc-4cf0-add3-60d4d6bf56bf)
+![Rplot04](https://github.com/user-attachments/assets/59a0a5b0-f1ab-4899-9339-908f8573a128)
+
 Bellabeat, a high-tech company specializing in health-focused smart devices, aims to analyze user activity data to improve its marketing and product strategies. This project delves into trends related to steps, calories, heart rate, sleep, and activity levels, providing actionable insights to guide the company’s approach to customer engagement.
 
 ---
+
+
