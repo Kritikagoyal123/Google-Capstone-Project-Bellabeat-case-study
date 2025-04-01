@@ -22,16 +22,10 @@ This case study analyzes Fitbit fitness tracker data to uncover user behavior pa
 - 📌 **Most users tend to take between 0 and 20,000 steps**, with a **right-skewed distribution**, suggesting **moderate activity levels**        are more common, while higher activity levels are less frequent. 👟📊
 - 📌 **Positive correlation** between total steps and calories burned, with a strong relationship indicated by the line of best fit, showing
   that **higher activity levels lead to increased calorie expenditure.** 🏃‍♂️🔥
+- 📌 **Daily step counts fluctuate significantly**, with occasional high-activity spikes, indicating inconsistent user activity levels. 📈🚀
+- 📌 **Step activity remains fairly consistent** across the week, with **Saturday showing slightly higher median** stepsand occasional            outliers.🚶‍♂️📊
 ---
 
-## 🎯 Business Recommendations
-
-- 💡 **Promote AI-driven fitness coaching** based on heart rate & step trends 🤖
-- 💡 **Encourage weekend challenges** to boost engagement 🏆
-- 💡 **Implement gamification & push notifications** for personalized motivation 📱
-- 💡 **Use machine learning** to predict user adherence and recommend optimized workouts 🔮
-
----
 
 ## 🚀 Project Summary
 
